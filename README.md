@@ -44,6 +44,7 @@ Causal inference | A/B testing | Experimentation | Causal Machine Learning | MLO
 ## Links
 
 LinkedIn: [linkedin.com/in/julio-franca](https://www.linkedin.com/in/julio-franca/)  
-Resume: [Resume_Julio_Cesar_Junior_Data_Scientist.pdf](Resume_Julio_Cesar_Junior_Data_Scientist.pdf)  
+Resume EN: [Resume_Julio_Cesar_Junior_Data_Scientist.pdf](Resume_Julio_Cesar_Junior_Data_Scientist.pdf)  
+Curriculo PT-BR: [CV_Julio_Cesar_Cientista_Dados_Junior.pdf](CV_Julio_Cesar_Cientista_Dados_Junior.pdf)  
 Portfolio: [julinho-cd.github.io](https://julinho-cd.github.io/)  
 Portfolio projects: see pinned repositories below
