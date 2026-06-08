@@ -44,5 +44,5 @@ Causal inference | A/B testing | Experimentation | Causal Machine Learning | MLO
 ## Links
 
 LinkedIn: [linkedin.com/in/julio-franca](https://www.linkedin.com/in/julio-franca/)  
-Resume: to be added  
+Resume: [Resume_Julio_Cesar_Junior_Data_Scientist.pdf](Resume_Julio_Cesar_Junior_Data_Scientist.pdf)  
 Portfolio projects: see pinned repositories below
